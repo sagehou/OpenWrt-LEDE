@@ -5,7 +5,7 @@ Build OpenWrt using GitHub Actions
 ## Target images
 Newifi-D1
 Mi-AC2100
-Hiwifi-B70
+~~Hiwifi-B70~~
 
 ### Tips
 
